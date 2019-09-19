@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\Exercicios\MediaNota\bin\Debug\netcoreapp2.2\MediaNota.deps.json
+C:\Users\40349113874\Documents\Exercicios\MediaNota\bin\Debug\netcoreapp2.2\MediaNota.runtimeconfig.json
+C:\Users\40349113874\Documents\Exercicios\MediaNota\bin\Debug\netcoreapp2.2\MediaNota.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\Exercicios\MediaNota\bin\Debug\netcoreapp2.2\MediaNota.dll
+C:\Users\40349113874\Documents\Exercicios\MediaNota\bin\Debug\netcoreapp2.2\MediaNota.pdb
+C:\Users\40349113874\Documents\Exercicios\MediaNota\obj\Debug\netcoreapp2.2\MediaNota.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\Exercicios\MediaNota\obj\Debug\netcoreapp2.2\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\Exercicios\MediaNota\obj\Debug\netcoreapp2.2\MediaNota.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\Exercicios\MediaNota\obj\Debug\netcoreapp2.2\MediaNota.AssemblyInfo.cs
+C:\Users\40349113874\Documents\Exercicios\MediaNota\obj\Debug\netcoreapp2.2\MediaNota.dll
+C:\Users\40349113874\Documents\Exercicios\MediaNota\obj\Debug\netcoreapp2.2\MediaNota.pdb

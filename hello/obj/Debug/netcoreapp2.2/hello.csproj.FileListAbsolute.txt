@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\Exercicio C#\hello\bin\Debug\netcoreapp2.2\hello.deps.json
+C:\Users\40349113874\Documents\Exercicio C#\hello\bin\Debug\netcoreapp2.2\hello.runtimeconfig.json
+C:\Users\40349113874\Documents\Exercicio C#\hello\bin\Debug\netcoreapp2.2\hello.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\Exercicio C#\hello\bin\Debug\netcoreapp2.2\hello.dll
+C:\Users\40349113874\Documents\Exercicio C#\hello\bin\Debug\netcoreapp2.2\hello.pdb
+C:\Users\40349113874\Documents\Exercicio C#\hello\obj\Debug\netcoreapp2.2\hello.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\Exercicio C#\hello\obj\Debug\netcoreapp2.2\hello.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\Exercicio C#\hello\obj\Debug\netcoreapp2.2\hello.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\Exercicio C#\hello\obj\Debug\netcoreapp2.2\hello.AssemblyInfo.cs
+C:\Users\40349113874\Documents\Exercicio C#\hello\obj\Debug\netcoreapp2.2\hello.dll
+C:\Users\40349113874\Documents\Exercicio C#\hello\obj\Debug\netcoreapp2.2\hello.pdb
