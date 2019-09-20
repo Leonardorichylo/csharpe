@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\ContImpar\bin\Debug\netcoreapp2.2\ContImpar.deps.json
+C:\Users\40349113874\Documents\csharpe\ContImpar\bin\Debug\netcoreapp2.2\ContImpar.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\ContImpar\bin\Debug\netcoreapp2.2\ContImpar.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\ContImpar\bin\Debug\netcoreapp2.2\ContImpar.dll
+C:\Users\40349113874\Documents\csharpe\ContImpar\bin\Debug\netcoreapp2.2\ContImpar.pdb
+C:\Users\40349113874\Documents\csharpe\ContImpar\obj\Debug\netcoreapp2.2\ContImpar.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\ContImpar\obj\Debug\netcoreapp2.2\ContImpar.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\ContImpar\obj\Debug\netcoreapp2.2\ContImpar.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\ContImpar\obj\Debug\netcoreapp2.2\ContImpar.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\ContImpar\obj\Debug\netcoreapp2.2\ContImpar.dll
+C:\Users\40349113874\Documents\csharpe\ContImpar\obj\Debug\netcoreapp2.2\ContImpar.pdb

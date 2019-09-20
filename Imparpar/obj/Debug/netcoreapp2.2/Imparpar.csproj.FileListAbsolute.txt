@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\Imparpar\bin\Debug\netcoreapp2.2\Imparpar.deps.json
+C:\Users\40349113874\Documents\csharpe\Imparpar\bin\Debug\netcoreapp2.2\Imparpar.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\Imparpar\bin\Debug\netcoreapp2.2\Imparpar.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\Imparpar\bin\Debug\netcoreapp2.2\Imparpar.dll
+C:\Users\40349113874\Documents\csharpe\Imparpar\bin\Debug\netcoreapp2.2\Imparpar.pdb
+C:\Users\40349113874\Documents\csharpe\Imparpar\obj\Debug\netcoreapp2.2\Imparpar.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\Imparpar\obj\Debug\netcoreapp2.2\Imparpar.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\Imparpar\obj\Debug\netcoreapp2.2\Imparpar.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\Imparpar\obj\Debug\netcoreapp2.2\Imparpar.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\Imparpar\obj\Debug\netcoreapp2.2\Imparpar.dll
+C:\Users\40349113874\Documents\csharpe\Imparpar\obj\Debug\netcoreapp2.2\Imparpar.pdb
