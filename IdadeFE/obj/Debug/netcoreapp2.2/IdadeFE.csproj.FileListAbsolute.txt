@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\IdadeFE\obj\Debug\netcoreapp2.2\IdadeFE.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\IdadeFE\obj\Debug\netcoreapp2.2\IdadeFE.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\IdadeFE\obj\Debug\netcoreapp2.2\IdadeFE.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\IdadeFE\obj\Debug\netcoreapp2.2\IdadeFE.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\IdadeFE\bin\Debug\netcoreapp2.2\IdadeFE.deps.json
+C:\Users\40349113874\Documents\csharpe\IdadeFE\bin\Debug\netcoreapp2.2\IdadeFE.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\IdadeFE\bin\Debug\netcoreapp2.2\IdadeFE.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\IdadeFE\bin\Debug\netcoreapp2.2\IdadeFE.dll
+C:\Users\40349113874\Documents\csharpe\IdadeFE\bin\Debug\netcoreapp2.2\IdadeFE.pdb
+C:\Users\40349113874\Documents\csharpe\IdadeFE\obj\Debug\netcoreapp2.2\IdadeFE.dll
+C:\Users\40349113874\Documents\csharpe\IdadeFE\obj\Debug\netcoreapp2.2\IdadeFE.pdb
