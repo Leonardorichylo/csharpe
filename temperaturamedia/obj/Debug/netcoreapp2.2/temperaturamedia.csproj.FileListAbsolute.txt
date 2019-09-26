@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\obj\Debug\netcoreapp2.2\temperaturamedia.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\obj\Debug\netcoreapp2.2\temperaturamedia.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\obj\Debug\netcoreapp2.2\temperaturamedia.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\obj\Debug\netcoreapp2.2\temperaturamedia.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\bin\Debug\netcoreapp2.2\temperaturamedia.deps.json
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\bin\Debug\netcoreapp2.2\temperaturamedia.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\bin\Debug\netcoreapp2.2\temperaturamedia.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\bin\Debug\netcoreapp2.2\temperaturamedia.dll
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\bin\Debug\netcoreapp2.2\temperaturamedia.pdb
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\obj\Debug\netcoreapp2.2\temperaturamedia.dll
+C:\Users\40349113874\Documents\csharpe\temperaturamedia\obj\Debug\netcoreapp2.2\temperaturamedia.pdb

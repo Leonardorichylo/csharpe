@@ -1,34 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexandre.fukaya\\Documents\\Exercicios_Manha\\CalcArea\\CalcArea.csproj": {}
+    "C:\\Users\\40349113874\\Documents\\csharpe\\VetorParImpar\\VetorParImpar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexandre.fukaya\\Documents\\Exercicios_Manha\\CalcArea\\CalcArea.csproj": {
+    "C:\\Users\\40349113874\\Documents\\csharpe\\VetorParImpar\\VetorParImpar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexandre.fukaya\\Documents\\Exercicios_Manha\\CalcArea\\CalcArea.csproj",
-        "projectName": "CalcArea",
-        "projectPath": "C:\\Users\\alexandre.fukaya\\Documents\\Exercicios_Manha\\CalcArea\\CalcArea.csproj",
-        "packagesPath": "C:\\Users\\alexandre.fukaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexandre.fukaya\\Documents\\Exercicios_Manha\\CalcArea\\obj\\",
+        "projectUniqueName": "C:\\Users\\40349113874\\Documents\\csharpe\\VetorParImpar\\VetorParImpar.csproj",
+        "projectName": "VetorParImpar",
+        "projectPath": "C:\\Users\\40349113874\\Documents\\csharpe\\VetorParImpar\\VetorParImpar.csproj",
+        "packagesPath": "C:\\Users\\40349113874\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\40349113874\\Documents\\csharpe\\VetorParImpar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\alexandre.fukaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\40349113874\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -39,11 +39,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
