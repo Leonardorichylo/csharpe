@@ -8,6 +8,8 @@ namespace ByteBank
         public int agencia{get;set;}
         public int numero{get;set;}
         public double Saldo{get;set;}
+
+        //Construtor
         public ContaCorrente(int agencia,int numero,string titular){
             this.agencia = agencia;
             this.numero = numero;

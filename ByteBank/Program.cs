@@ -4,7 +4,9 @@ namespace ByteBank {
         static void Main (string[] args) {
             bool senhaok = false;
             double saldo;
-            Console.WriteLine ("Cadastro de Clientes");
+            System.Console.WriteLine("===============================");
+            Console.WriteLine ("     Cadastro de Clientes");
+            System.Console.WriteLine("===============================");
             Console.WriteLine ();
             Console.Write ("Nome: ");
             string nome = Console.ReadLine ();
@@ -20,12 +22,14 @@ namespace ByteBank {
                 if (!senhaok) {
                     Console.WriteLine ("Senha não atende aos requisitos");
                 } else {
-                    Console.WriteLine ("senha trocada com sucesso");
+                    Console.WriteLine ("Senha trocada com sucesso!");
                 }
             }
             while (!senhaok);
-
-            Console.WriteLine ("Cadastro de Conta Corrente");
+            System.Console.WriteLine();
+            System.Console.WriteLine("===============================");
+            Console.WriteLine ("  Cadastro de Conta Corrente");
+            System.Console.WriteLine("===============================");
             Console.WriteLine ();
             Console.Write ("Agencia: ");
             int agencia = int.Parse (Console.ReadLine ());
