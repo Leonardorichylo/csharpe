@@ -7,23 +7,21 @@ namespace ByteBank {
         public string senha;
 
         //Construtor
-        public Cliente (string cpf, string nome, string email) {
+        public Cliente (string nome,string cpf, string email) {
             this.nome = nome;
             this.cpf = cpf;
             this.email = email;
         }
 
-        public bool TrocaSenha(string senha){
-            if (senha.Length >6 && senha.Length <16)
-            {
+        public bool TrocaSenha (string senha) {
+            if (senha.Length > 6 && senha.Length < 16) {
                 this.senha = senha;
                 return true;
-            } 
-            
-            else{
+            } else {
                 return false;
             }
         }
 
     }
+
 }
