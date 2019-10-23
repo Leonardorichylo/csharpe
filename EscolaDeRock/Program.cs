@@ -118,6 +118,7 @@ namespace EscolaDeRock {
                                 ColocarNaBanda ((IHarmonia) instrumento);
                             } else {
                                 Console.WriteLine ("O instrumento selecionado não é de Harmonia.");
+                                vagas = 2;
                                 continue;
                             }
 

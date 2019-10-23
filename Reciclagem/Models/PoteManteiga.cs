@@ -1,14 +1,12 @@
-using System;
-using Reciclagem.Interface;
+using Reciclagem.Interfaces;
 
 namespace Reciclagem.Models
 {
-    public class PoteManteiga: ILixeiraVermelho
+    public class PoteManteiga : Lixo, IPlastico
     {
-        public bool JogarNoLixoVermelho()
+        public string ReciclarFeitoPlastico()
         {
-            Console.WriteLine("Pote Manteiga na Lixeira Vermelho");
-        return true;
-    }
+            return this.GetType().Name;
+        }
     }
 }

@@ -1,15 +1,12 @@
-using System;
-using Reciclagem.Interface;
+using Reciclagem.Interfaces;
 
 namespace Reciclagem.Models
-
 {
-    public class GarrafaPET: ILixeiraVermelho
+    public class GarrafaPET : Lixo, IPlastico
     {
-        public bool JogarNoLixoVermelho()
+        public string ReciclarFeitoPlastico()
         {
-            Console.WriteLine("Garrafa Pet na Lixeira Vermelho");
-        return true;
+            return this.GetType().Name;
         }
     }
 }

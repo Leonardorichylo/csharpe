@@ -1,14 +1,13 @@
-using System;
-using Reciclagem.Interface;
+using Reciclagem.Interfaces;
 
 namespace Reciclagem.Models
 {
-    public class GuardaChuva: ILixeiraAmarelo
+    public class GuardaChuva : Lixo, IIndefinido
     {
-        public bool JogarNoLixoAmarelo()
+
+        public string ProcurarOQueFazer()
         {
-            Console.WriteLine("Guarda Chuva na Lixeira Amarelo");
-        return true;
+            return this.GetType().Name;
         }
     }
 }

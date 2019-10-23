@@ -1,14 +1,12 @@
-using System;
-using Reciclagem.Interface;
+using Reciclagem.Interfaces;
 
 namespace Reciclagem.Models
 {
-    public class Papelao: ILixeiraAzul
+    public class Papelao : Lixo, IPapel
     {
-        public bool JogarNoLixoAzul()
+        public string ReciclarFeitoPapel()
         {
-            Console.WriteLine("Papelão na Lixeira Azul");
-        return true;
-    }
+            return this.GetType().Name;
+        }
     }
 }
