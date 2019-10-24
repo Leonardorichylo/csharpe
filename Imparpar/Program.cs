@@ -17,11 +17,11 @@ namespace Imparpar
 
             if (resto==0)
             {
-                Console.WriteLine("O número é par!");
+            Console.WriteLine("O número é par!");
             }
             else
             {
-               Console.WriteLine("O número é impar!");
+            Console.WriteLine("O número é impar!");
             }
 
         }

@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\bin\Debug\netcoreapp2.2\TempFahrenheit.deps.json
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\bin\Debug\netcoreapp2.2\TempFahrenheit.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\bin\Debug\netcoreapp2.2\TempFahrenheit.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\bin\Debug\netcoreapp2.2\TempFahrenheit.dll
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\bin\Debug\netcoreapp2.2\TempFahrenheit.pdb
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\obj\Debug\netcoreapp2.2\TempFahrenheit.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\obj\Debug\netcoreapp2.2\TempFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\obj\Debug\netcoreapp2.2\TempFahrenheit.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\obj\Debug\netcoreapp2.2\TempFahrenheit.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\obj\Debug\netcoreapp2.2\TempFahrenheit.dll
+C:\Users\40349113874\Documents\csharpe\TempFahrenheit\obj\Debug\netcoreapp2.2\TempFahrenheit.pdb
