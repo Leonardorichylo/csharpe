@@ -6,7 +6,8 @@ namespace _0a10
     {
         static void Main(string[] args)
         {
-            for(int i=0;i<11;i++){
+            for(int i=1;i<10;i=i+2)
+            {
                 System.Console.WriteLine($"{i}");
             }
         }
