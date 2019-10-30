@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\numerocrescente\bin\Debug\netcoreapp2.2\numerocrescente.deps.json
+C:\Users\40349113874\Documents\csharpe\numerocrescente\bin\Debug\netcoreapp2.2\numerocrescente.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\numerocrescente\bin\Debug\netcoreapp2.2\numerocrescente.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\numerocrescente\bin\Debug\netcoreapp2.2\numerocrescente.dll
+C:\Users\40349113874\Documents\csharpe\numerocrescente\bin\Debug\netcoreapp2.2\numerocrescente.pdb
+C:\Users\40349113874\Documents\csharpe\numerocrescente\obj\Debug\netcoreapp2.2\numerocrescente.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\numerocrescente\obj\Debug\netcoreapp2.2\numerocrescente.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\numerocrescente\obj\Debug\netcoreapp2.2\numerocrescente.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\numerocrescente\obj\Debug\netcoreapp2.2\numerocrescente.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\numerocrescente\obj\Debug\netcoreapp2.2\numerocrescente.dll
+C:\Users\40349113874\Documents\csharpe\numerocrescente\obj\Debug\netcoreapp2.2\numerocrescente.pdb

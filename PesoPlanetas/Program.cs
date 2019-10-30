@@ -11,8 +11,9 @@ namespace PesoPlanetas {
             System.Console.WriteLine ("5 = Saturno");
             System.Console.WriteLine ("6 - Urano");
 
-            System.Console.WriteLine ("Digite o numero do planta desejado:");
+            System.Console.WriteLine ("Digite o numero do planta desejado ou Fim para Sair:");
             string codigo = Console.ReadLine ();
+            do{
             switch (codigo) {
                 case "1":
                 System.Console.Write("Digite seu peso: ");
@@ -50,10 +51,9 @@ namespace PesoPlanetas {
                 peso=peso*1.17/9.8;
                 System.Console.WriteLine($"Seu peso em Urano é: {peso}");
                     break;
-                    default:
-                    System.Console.WriteLine("Comando Inválido!");
-                    break;
             }
+            System.Console.WriteLine();
+            } while(codigo !="Fim");
 
         }
     }

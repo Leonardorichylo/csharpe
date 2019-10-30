@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\bin\Debug\netcoreapp2.2\NomesAlfabetica.deps.json
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\bin\Debug\netcoreapp2.2\NomesAlfabetica.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\bin\Debug\netcoreapp2.2\NomesAlfabetica.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\bin\Debug\netcoreapp2.2\NomesAlfabetica.dll
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\bin\Debug\netcoreapp2.2\NomesAlfabetica.pdb
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\obj\Debug\netcoreapp2.2\NomesAlfabetica.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\obj\Debug\netcoreapp2.2\NomesAlfabetica.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\obj\Debug\netcoreapp2.2\NomesAlfabetica.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\obj\Debug\netcoreapp2.2\NomesAlfabetica.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\obj\Debug\netcoreapp2.2\NomesAlfabetica.dll
+C:\Users\40349113874\Documents\csharpe\NomesAlfabetica\obj\Debug\netcoreapp2.2\NomesAlfabetica.pdb
