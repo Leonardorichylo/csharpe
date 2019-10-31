@@ -15,7 +15,7 @@ namespace endocrinologista {
             string paciente;
             double peso;
             double altura;
-            double IMC=0;
+            double IMC;
             System.Console.Write ("Digite o nome do paciente: ");
             paciente = Console.ReadLine ();
             System.Console.Write ("Digite o Peso: ");
