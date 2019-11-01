@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\AeB\bin\Debug\netcoreapp2.2\AeB.deps.json
+C:\Users\40349113874\Documents\csharpe\AeB\bin\Debug\netcoreapp2.2\AeB.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\AeB\bin\Debug\netcoreapp2.2\AeB.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\AeB\bin\Debug\netcoreapp2.2\AeB.dll
+C:\Users\40349113874\Documents\csharpe\AeB\bin\Debug\netcoreapp2.2\AeB.pdb
+C:\Users\40349113874\Documents\csharpe\AeB\obj\Debug\netcoreapp2.2\AeB.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\AeB\obj\Debug\netcoreapp2.2\AeB.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\AeB\obj\Debug\netcoreapp2.2\AeB.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\AeB\obj\Debug\netcoreapp2.2\AeB.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\AeB\obj\Debug\netcoreapp2.2\AeB.dll
+C:\Users\40349113874\Documents\csharpe\AeB\obj\Debug\netcoreapp2.2\AeB.pdb

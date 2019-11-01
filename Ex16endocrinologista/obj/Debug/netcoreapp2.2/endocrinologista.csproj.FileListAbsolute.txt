@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\endocrinologista\obj\Debug\netcoreapp2.2\endocrinologista.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\endocrinologista\obj\Debug\netcoreapp2.2\endocrinologista.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\endocrinologista\obj\Debug\netcoreapp2.2\endocrinologista.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\endocrinologista\obj\Debug\netcoreapp2.2\endocrinologista.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\endocrinologista\bin\Debug\netcoreapp2.2\endocrinologista.deps.json
+C:\Users\40349113874\Documents\csharpe\endocrinologista\bin\Debug\netcoreapp2.2\endocrinologista.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\endocrinologista\bin\Debug\netcoreapp2.2\endocrinologista.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\endocrinologista\bin\Debug\netcoreapp2.2\endocrinologista.dll
+C:\Users\40349113874\Documents\csharpe\endocrinologista\bin\Debug\netcoreapp2.2\endocrinologista.pdb
+C:\Users\40349113874\Documents\csharpe\endocrinologista\obj\Debug\netcoreapp2.2\endocrinologista.dll
+C:\Users\40349113874\Documents\csharpe\endocrinologista\obj\Debug\netcoreapp2.2\endocrinologista.pdb
