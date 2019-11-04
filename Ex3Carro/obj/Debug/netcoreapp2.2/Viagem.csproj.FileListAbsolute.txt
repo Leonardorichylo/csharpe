@@ -1,0 +1,33 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\bin\Debug\netcoreapp2.2\Viagem.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\bin\Debug\netcoreapp2.2\Viagem.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\bin\Debug\netcoreapp2.2\Viagem.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\bin\Debug\netcoreapp2.2\Viagem.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\bin\Debug\netcoreapp2.2\Viagem.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\obj\Debug\netcoreapp2.2\Viagem.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\obj\Debug\netcoreapp2.2\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\obj\Debug\netcoreapp2.2\Viagem.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\obj\Debug\netcoreapp2.2\Viagem.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\obj\Debug\netcoreapp2.2\Viagem.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\Viagem\obj\Debug\netcoreapp2.2\Viagem.pdb
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\bin\Debug\netcoreapp2.2\Viagem.deps.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\bin\Debug\netcoreapp2.2\Viagem.runtimeconfig.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\bin\Debug\netcoreapp2.2\Viagem.runtimeconfig.dev.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\bin\Debug\netcoreapp2.2\Viagem.dll
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\bin\Debug\netcoreapp2.2\Viagem.pdb
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\obj\Debug\netcoreapp2.2\Viagem.csprojAssemblyReference.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\obj\Debug\netcoreapp2.2\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\obj\Debug\netcoreapp2.2\Viagem.AssemblyInfoInputs.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\obj\Debug\netcoreapp2.2\Viagem.AssemblyInfo.cs
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\obj\Debug\netcoreapp2.2\Viagem.dll
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\3- Viagem\obj\Debug\netcoreapp2.2\Viagem.pdb
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\bin\Debug\netcoreapp2.2\Viagem.deps.json
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\bin\Debug\netcoreapp2.2\Viagem.runtimeconfig.json
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\bin\Debug\netcoreapp2.2\Viagem.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\bin\Debug\netcoreapp2.2\Viagem.dll
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\bin\Debug\netcoreapp2.2\Viagem.pdb
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\obj\Debug\netcoreapp2.2\Viagem.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\obj\Debug\netcoreapp2.2\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\obj\Debug\netcoreapp2.2\Viagem.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\obj\Debug\netcoreapp2.2\Viagem.AssemblyInfo.cs
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\obj\Debug\netcoreapp2.2\Viagem.dll
+C:\Users\40349113874\Documents\Nova pasta\Ex3Carro\obj\Debug\netcoreapp2.2\Viagem.pdb

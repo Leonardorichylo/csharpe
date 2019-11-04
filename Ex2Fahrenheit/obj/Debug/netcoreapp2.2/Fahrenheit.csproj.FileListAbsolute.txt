@@ -1,0 +1,33 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.pdb
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.deps.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.runtimeconfig.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.runtimeconfig.dev.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.dll
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\bin\Debug\netcoreapp2.2\Fahrenheit.pdb
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.csprojAssemblyReference.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.AssemblyInfo.cs
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.dll
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\2 - Fahrenheit\obj\Debug\netcoreapp2.2\Fahrenheit.pdb

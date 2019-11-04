@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\bin\Debug\netcoreapp2.2\20- RandomicoImpoPa.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\bin\Debug\netcoreapp2.2\20- RandomicoImpoPa.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\bin\Debug\netcoreapp2.2\20- RandomicoImpoPa.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\bin\Debug\netcoreapp2.2\20- RandomicoImpoPa.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\bin\Debug\netcoreapp2.2\20- RandomicoImpoPa.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\obj\Debug\netcoreapp2.2\20- RandomicoImpoPa.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\obj\Debug\netcoreapp2.2\20- RandomicoImpoPa.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\obj\Debug\netcoreapp2.2\20- RandomicoImpoPa.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\obj\Debug\netcoreapp2.2\20- RandomicoImpoPa.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\obj\Debug\netcoreapp2.2\20- RandomicoImpoPa.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\20- RandomicoImpoPa\obj\Debug\netcoreapp2.2\20- RandomicoImpoPa.pdb

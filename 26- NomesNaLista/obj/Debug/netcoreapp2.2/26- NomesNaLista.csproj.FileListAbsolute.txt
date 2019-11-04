@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\obj\Debug\netcoreapp2.2\26- NomesNaLista.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\obj\Debug\netcoreapp2.2\26- NomesNaLista.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\obj\Debug\netcoreapp2.2\26- NomesNaLista.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\obj\Debug\netcoreapp2.2\26- NomesNaLista.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\bin\Debug\netcoreapp2.2\26- NomesNaLista.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\bin\Debug\netcoreapp2.2\26- NomesNaLista.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\bin\Debug\netcoreapp2.2\26- NomesNaLista.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\bin\Debug\netcoreapp2.2\26- NomesNaLista.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\bin\Debug\netcoreapp2.2\26- NomesNaLista.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\obj\Debug\netcoreapp2.2\26- NomesNaLista.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\26- NomesNaLista\obj\Debug\netcoreapp2.2\26- NomesNaLista.pdb

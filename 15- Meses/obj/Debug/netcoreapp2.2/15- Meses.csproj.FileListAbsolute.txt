@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\obj\Debug\netcoreapp2.2\15- Meses.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\obj\Debug\netcoreapp2.2\15- Meses.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\obj\Debug\netcoreapp2.2\15- Meses.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\obj\Debug\netcoreapp2.2\15- Meses.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\bin\Debug\netcoreapp2.2\15- Meses.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\bin\Debug\netcoreapp2.2\15- Meses.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\bin\Debug\netcoreapp2.2\15- Meses.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\bin\Debug\netcoreapp2.2\15- Meses.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\bin\Debug\netcoreapp2.2\15- Meses.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\obj\Debug\netcoreapp2.2\15- Meses.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\15- Meses\obj\Debug\netcoreapp2.2\15- Meses.pdb

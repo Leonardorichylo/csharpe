@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\obj\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\obj\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\obj\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\obj\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\bin\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\bin\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\bin\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\bin\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\bin\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\obj\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\25- SomaDosVetoresDitados\obj\Debug\netcoreapp2.2\25- SomaDosVetoresDitados.pdb

@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\bin\Debug\netcoreapp2.2\6- cem.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\bin\Debug\netcoreapp2.2\6- cem.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\bin\Debug\netcoreapp2.2\6- cem.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\bin\Debug\netcoreapp2.2\6- cem.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\bin\Debug\netcoreapp2.2\6- cem.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\obj\Debug\netcoreapp2.2\6- cem.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\obj\Debug\netcoreapp2.2\6- cem.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\obj\Debug\netcoreapp2.2\6- cem.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\obj\Debug\netcoreapp2.2\6- cem.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\obj\Debug\netcoreapp2.2\6- cem.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\6- cem\obj\Debug\netcoreapp2.2\6- cem.pdb

@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\bin\Debug\netcoreapp2.2\10- Multiplode3.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\bin\Debug\netcoreapp2.2\10- Multiplode3.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\bin\Debug\netcoreapp2.2\10- Multiplode3.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\bin\Debug\netcoreapp2.2\10- Multiplode3.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\bin\Debug\netcoreapp2.2\10- Multiplode3.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\obj\Debug\netcoreapp2.2\10- Multiplode3.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\obj\Debug\netcoreapp2.2\10- Multiplode3.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\obj\Debug\netcoreapp2.2\10- Multiplode3.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\obj\Debug\netcoreapp2.2\10- Multiplode3.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\obj\Debug\netcoreapp2.2\10- Multiplode3.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\10- Multiplode3\obj\Debug\netcoreapp2.2\10- Multiplode3.pdb

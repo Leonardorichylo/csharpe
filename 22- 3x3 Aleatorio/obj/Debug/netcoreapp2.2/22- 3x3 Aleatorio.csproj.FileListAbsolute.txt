@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\obj\Debug\netcoreapp2.2\22- 3x3 Aleatorio.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\obj\Debug\netcoreapp2.2\22- 3x3 Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\obj\Debug\netcoreapp2.2\22- 3x3 Aleatorio.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\obj\Debug\netcoreapp2.2\22- 3x3 Aleatorio.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\bin\Debug\netcoreapp2.2\22- 3x3 Aleatorio.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\bin\Debug\netcoreapp2.2\22- 3x3 Aleatorio.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\bin\Debug\netcoreapp2.2\22- 3x3 Aleatorio.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\bin\Debug\netcoreapp2.2\22- 3x3 Aleatorio.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\bin\Debug\netcoreapp2.2\22- 3x3 Aleatorio.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\obj\Debug\netcoreapp2.2\22- 3x3 Aleatorio.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\22- 3x3 Aleatorio\obj\Debug\netcoreapp2.2\22- 3x3 Aleatorio.pdb

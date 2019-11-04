@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\obj\Debug\netcoreapp2.2\27- Agenda de Aniversarios.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\obj\Debug\netcoreapp2.2\27- Agenda de Aniversarios.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\obj\Debug\netcoreapp2.2\27- Agenda de Aniversarios.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\obj\Debug\netcoreapp2.2\27- Agenda de Aniversarios.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\bin\Debug\netcoreapp2.2\27- Agenda de Aniversarios.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\bin\Debug\netcoreapp2.2\27- Agenda de Aniversarios.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\bin\Debug\netcoreapp2.2\27- Agenda de Aniversarios.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\bin\Debug\netcoreapp2.2\27- Agenda de Aniversarios.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\bin\Debug\netcoreapp2.2\27- Agenda de Aniversarios.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\obj\Debug\netcoreapp2.2\27- Agenda de Aniversarios.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\27- Agenda de Aniversarios\obj\Debug\netcoreapp2.2\27- Agenda de Aniversarios.pdb

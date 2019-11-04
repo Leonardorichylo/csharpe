@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\obj\Debug\netcoreapp2.2\19- DitarEListarArray.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\obj\Debug\netcoreapp2.2\19- DitarEListarArray.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\obj\Debug\netcoreapp2.2\19- DitarEListarArray.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\obj\Debug\netcoreapp2.2\19- DitarEListarArray.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\bin\Debug\netcoreapp2.2\19- DitarEListarArray.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\bin\Debug\netcoreapp2.2\19- DitarEListarArray.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\bin\Debug\netcoreapp2.2\19- DitarEListarArray.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\bin\Debug\netcoreapp2.2\19- DitarEListarArray.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\bin\Debug\netcoreapp2.2\19- DitarEListarArray.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\obj\Debug\netcoreapp2.2\19- DitarEListarArray.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\19- DitarEListarArray\obj\Debug\netcoreapp2.2\19- DitarEListarArray.pdb

@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\bin\Debug\netcoreapp2.2\14- Verbos.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\bin\Debug\netcoreapp2.2\14- Verbos.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\bin\Debug\netcoreapp2.2\14- Verbos.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\bin\Debug\netcoreapp2.2\14- Verbos.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\bin\Debug\netcoreapp2.2\14- Verbos.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\obj\Debug\netcoreapp2.2\14- Verbos.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\obj\Debug\netcoreapp2.2\14- Verbos.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\obj\Debug\netcoreapp2.2\14- Verbos.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\obj\Debug\netcoreapp2.2\14- Verbos.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\obj\Debug\netcoreapp2.2\14- Verbos.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\14- Verbos\obj\Debug\netcoreapp2.2\14- Verbos.pdb

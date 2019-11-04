@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\bin\Debug\netcoreapp2.2\16- IMC.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\bin\Debug\netcoreapp2.2\16- IMC.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\bin\Debug\netcoreapp2.2\16- IMC.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\bin\Debug\netcoreapp2.2\16- IMC.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\bin\Debug\netcoreapp2.2\16- IMC.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\obj\Debug\netcoreapp2.2\16- IMC.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\obj\Debug\netcoreapp2.2\16- IMC.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\obj\Debug\netcoreapp2.2\16- IMC.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\obj\Debug\netcoreapp2.2\16- IMC.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\obj\Debug\netcoreapp2.2\16- IMC.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\16- IMC\obj\Debug\netcoreapp2.2\16- IMC.pdb

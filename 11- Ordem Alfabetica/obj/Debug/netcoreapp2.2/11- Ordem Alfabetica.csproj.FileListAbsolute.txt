@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\obj\Debug\netcoreapp2.2\11- Ordem Alfabetica.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\obj\Debug\netcoreapp2.2\11- Ordem Alfabetica.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\obj\Debug\netcoreapp2.2\11- Ordem Alfabetica.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\obj\Debug\netcoreapp2.2\11- Ordem Alfabetica.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\bin\Debug\netcoreapp2.2\11- Ordem Alfabetica.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\bin\Debug\netcoreapp2.2\11- Ordem Alfabetica.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\bin\Debug\netcoreapp2.2\11- Ordem Alfabetica.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\bin\Debug\netcoreapp2.2\11- Ordem Alfabetica.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\bin\Debug\netcoreapp2.2\11- Ordem Alfabetica.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\obj\Debug\netcoreapp2.2\11- Ordem Alfabetica.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\11- Ordem Alfabetica\obj\Debug\netcoreapp2.2\11- Ordem Alfabetica.pdb

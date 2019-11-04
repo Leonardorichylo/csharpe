@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\obj\Debug\netcoreapp2.2\24- Soma de vetores.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\obj\Debug\netcoreapp2.2\24- Soma de vetores.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\obj\Debug\netcoreapp2.2\24- Soma de vetores.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\obj\Debug\netcoreapp2.2\24- Soma de vetores.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\bin\Debug\netcoreapp2.2\24- Soma de vetores.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\bin\Debug\netcoreapp2.2\24- Soma de vetores.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\bin\Debug\netcoreapp2.2\24- Soma de vetores.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\bin\Debug\netcoreapp2.2\24- Soma de vetores.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\bin\Debug\netcoreapp2.2\24- Soma de vetores.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\obj\Debug\netcoreapp2.2\24- Soma de vetores.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\24- Soma de vetores\obj\Debug\netcoreapp2.2\24- Soma de vetores.pdb

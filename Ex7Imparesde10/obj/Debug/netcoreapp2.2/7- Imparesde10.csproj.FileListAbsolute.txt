@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\bin\Debug\netcoreapp2.2\7- Imparesde10.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\bin\Debug\netcoreapp2.2\7- Imparesde10.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\bin\Debug\netcoreapp2.2\7- Imparesde10.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\bin\Debug\netcoreapp2.2\7- Imparesde10.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\bin\Debug\netcoreapp2.2\7- Imparesde10.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\obj\Debug\netcoreapp2.2\7- Imparesde10.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\obj\Debug\netcoreapp2.2\7- Imparesde10.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\obj\Debug\netcoreapp2.2\7- Imparesde10.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\obj\Debug\netcoreapp2.2\7- Imparesde10.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\obj\Debug\netcoreapp2.2\7- Imparesde10.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\7- Imparesde10\obj\Debug\netcoreapp2.2\7- Imparesde10.pdb

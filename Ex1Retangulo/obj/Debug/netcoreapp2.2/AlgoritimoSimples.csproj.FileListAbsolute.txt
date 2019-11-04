@@ -1,0 +1,22 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.pdb
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.deps.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.runtimeconfig.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.runtimeconfig.dev.json
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.dll
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\bin\Debug\netcoreapp2.2\AlgoritimoSimples.pdb
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.csprojAssemblyReference.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.AssemblyInfoInputs.cache
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.AssemblyInfo.cs
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.dll
+C:\Users\40349113874\Downloads\Desafios-de-programacao-master\Desafios-de-programacao-master\1- AlgoritimoSimples\obj\Debug\netcoreapp2.2\AlgoritimoSimples.pdb

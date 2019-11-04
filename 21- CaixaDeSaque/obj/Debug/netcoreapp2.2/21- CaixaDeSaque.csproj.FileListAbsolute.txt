@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\bin\Debug\netcoreapp2.2\21- CaixaDeSaque.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\bin\Debug\netcoreapp2.2\21- CaixaDeSaque.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\bin\Debug\netcoreapp2.2\21- CaixaDeSaque.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\bin\Debug\netcoreapp2.2\21- CaixaDeSaque.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\bin\Debug\netcoreapp2.2\21- CaixaDeSaque.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\obj\Debug\netcoreapp2.2\21- CaixaDeSaque.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\obj\Debug\netcoreapp2.2\21- CaixaDeSaque.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\obj\Debug\netcoreapp2.2\21- CaixaDeSaque.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\obj\Debug\netcoreapp2.2\21- CaixaDeSaque.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\obj\Debug\netcoreapp2.2\21- CaixaDeSaque.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\21- CaixaDeSaque\obj\Debug\netcoreapp2.2\21- CaixaDeSaque.pdb

@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\obj\Debug\netcoreapp2.2\12- OrdemCrescente.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\obj\Debug\netcoreapp2.2\12- OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\obj\Debug\netcoreapp2.2\12- OrdemCrescente.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\obj\Debug\netcoreapp2.2\12- OrdemCrescente.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\bin\Debug\netcoreapp2.2\12- OrdemCrescente.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\bin\Debug\netcoreapp2.2\12- OrdemCrescente.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\bin\Debug\netcoreapp2.2\12- OrdemCrescente.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\bin\Debug\netcoreapp2.2\12- OrdemCrescente.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\bin\Debug\netcoreapp2.2\12- OrdemCrescente.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\obj\Debug\netcoreapp2.2\12- OrdemCrescente.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\12- OrdemCrescente\obj\Debug\netcoreapp2.2\12- OrdemCrescente.pdb

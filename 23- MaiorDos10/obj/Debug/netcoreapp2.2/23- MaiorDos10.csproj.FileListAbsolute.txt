@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\bin\Debug\netcoreapp2.2\23- MaiorDos10.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\bin\Debug\netcoreapp2.2\23- MaiorDos10.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\bin\Debug\netcoreapp2.2\23- MaiorDos10.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\bin\Debug\netcoreapp2.2\23- MaiorDos10.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\bin\Debug\netcoreapp2.2\23- MaiorDos10.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\obj\Debug\netcoreapp2.2\23- MaiorDos10.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\obj\Debug\netcoreapp2.2\23- MaiorDos10.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\obj\Debug\netcoreapp2.2\23- MaiorDos10.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\obj\Debug\netcoreapp2.2\23- MaiorDos10.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\obj\Debug\netcoreapp2.2\23- MaiorDos10.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\23- MaiorDos10\obj\Debug\netcoreapp2.2\23- MaiorDos10.pdb

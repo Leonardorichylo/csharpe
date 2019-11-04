@@ -1,0 +1,22 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\8- TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.pdb
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.deps.json
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.runtimeconfig.json
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.dll
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\bin\Debug\netcoreapp2.2\8- TrianguloInvertido.pdb
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.AssemblyInfo.cs
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.dll
+C:\Users\40349113874\Documents\Nova pasta\Ex8TrianguloInvertido\obj\Debug\netcoreapp2.2\8- TrianguloInvertido.pdb

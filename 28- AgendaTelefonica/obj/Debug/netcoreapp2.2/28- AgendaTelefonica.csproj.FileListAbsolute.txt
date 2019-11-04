@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\bin\Debug\netcoreapp2.2\28- AgendaTelefonica.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\bin\Debug\netcoreapp2.2\28- AgendaTelefonica.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\bin\Debug\netcoreapp2.2\28- AgendaTelefonica.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\bin\Debug\netcoreapp2.2\28- AgendaTelefonica.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\bin\Debug\netcoreapp2.2\28- AgendaTelefonica.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\obj\Debug\netcoreapp2.2\28- AgendaTelefonica.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\obj\Debug\netcoreapp2.2\28- AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\obj\Debug\netcoreapp2.2\28- AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\obj\Debug\netcoreapp2.2\28- AgendaTelefonica.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\obj\Debug\netcoreapp2.2\28- AgendaTelefonica.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\28- AgendaTelefonica\obj\Debug\netcoreapp2.2\28- AgendaTelefonica.pdb

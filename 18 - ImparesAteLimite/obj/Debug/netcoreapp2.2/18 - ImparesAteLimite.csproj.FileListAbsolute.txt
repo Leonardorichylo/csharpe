@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\bin\Debug\netcoreapp2.2\18 - ImparesAteLimite.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\bin\Debug\netcoreapp2.2\18 - ImparesAteLimite.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\bin\Debug\netcoreapp2.2\18 - ImparesAteLimite.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\bin\Debug\netcoreapp2.2\18 - ImparesAteLimite.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\bin\Debug\netcoreapp2.2\18 - ImparesAteLimite.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\obj\Debug\netcoreapp2.2\18 - ImparesAteLimite.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\obj\Debug\netcoreapp2.2\18 - ImparesAteLimite.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\obj\Debug\netcoreapp2.2\18 - ImparesAteLimite.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\obj\Debug\netcoreapp2.2\18 - ImparesAteLimite.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\obj\Debug\netcoreapp2.2\18 - ImparesAteLimite.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\18 - ImparesAteLimite\obj\Debug\netcoreapp2.2\18 - ImparesAteLimite.pdb

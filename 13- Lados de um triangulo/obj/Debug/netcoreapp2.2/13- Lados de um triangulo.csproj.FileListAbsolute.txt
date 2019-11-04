@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\bin\Debug\netcoreapp2.2\13- Lados de um triangulo.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\bin\Debug\netcoreapp2.2\13- Lados de um triangulo.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\bin\Debug\netcoreapp2.2\13- Lados de um triangulo.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\bin\Debug\netcoreapp2.2\13- Lados de um triangulo.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\bin\Debug\netcoreapp2.2\13- Lados de um triangulo.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\obj\Debug\netcoreapp2.2\13- Lados de um triangulo.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\obj\Debug\netcoreapp2.2\13- Lados de um triangulo.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\obj\Debug\netcoreapp2.2\13- Lados de um triangulo.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\obj\Debug\netcoreapp2.2\13- Lados de um triangulo.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\obj\Debug\netcoreapp2.2\13- Lados de um triangulo.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\13- Lados de um triangulo\obj\Debug\netcoreapp2.2\13- Lados de um triangulo.pdb

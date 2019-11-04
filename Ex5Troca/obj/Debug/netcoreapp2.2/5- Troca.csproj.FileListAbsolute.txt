@@ -1,0 +1,11 @@
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\bin\Debug\netcoreapp2.2\5- Troca.deps.json
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\bin\Debug\netcoreapp2.2\5- Troca.runtimeconfig.json
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\bin\Debug\netcoreapp2.2\5- Troca.runtimeconfig.dev.json
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\bin\Debug\netcoreapp2.2\5- Troca.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\bin\Debug\netcoreapp2.2\5- Troca.pdb
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\obj\Debug\netcoreapp2.2\5- Troca.csprojAssemblyReference.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\obj\Debug\netcoreapp2.2\5- Troca.csproj.CoreCompileInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\obj\Debug\netcoreapp2.2\5- Troca.AssemblyInfoInputs.cache
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\obj\Debug\netcoreapp2.2\5- Troca.AssemblyInfo.cs
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\obj\Debug\netcoreapp2.2\5- Troca.dll
+C:\Users\54094513841\Documents\Desafios de Programacao\5- Troca\obj\Debug\netcoreapp2.2\5- Troca.pdb
