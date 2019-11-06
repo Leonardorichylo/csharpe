@@ -1,34 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alexandre.fukaya\\SESISENAISP - Corporativo\\Professores 1.32 - 2s2019-T1\\Repos\\GitHub\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\40349113874\\Documents\\csharpe\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alexandre.fukaya\\SESISENAISP - Corporativo\\Professores 1.32 - 2s2019-T1\\Repos\\GitHub\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\40349113874\\Documents\\csharpe\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alexandre.fukaya\\SESISENAISP - Corporativo\\Professores 1.32 - 2s2019-T1\\Repos\\GitHub\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\40349113874\\Documents\\csharpe\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "c:\\Users\\alexandre.fukaya\\SESISENAISP - Corporativo\\Professores 1.32 - 2s2019-T1\\Repos\\GitHub\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj",
-        "packagesPath": "C:\\Users\\alexandre.fukaya\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alexandre.fukaya\\SESISENAISP - Corporativo\\Professores 1.32 - 2s2019-T1\\Repos\\GitHub\\2s2019-t1\\Exercicios\\TodoList\\obj\\",
+        "projectPath": "C:\\Users\\40349113874\\Documents\\csharpe\\TodoList\\TodoList.csproj",
+        "packagesPath": "C:\\Users\\40349113874\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\40349113874\\Documents\\csharpe\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\alexandre.fukaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\40349113874\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -39,23 +39,20 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
+        "netcoreapp2.1": {
+          "dependencies": {
             "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
         }
       }
     }

@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\SaladeAula\bin\Debug\netcoreapp2.1\SaladeAula.deps.json
+C:\Users\40349113874\Documents\csharpe\SaladeAula\bin\Debug\netcoreapp2.1\SaladeAula.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\SaladeAula\bin\Debug\netcoreapp2.1\SaladeAula.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\SaladeAula\bin\Debug\netcoreapp2.1\SaladeAula.dll
+C:\Users\40349113874\Documents\csharpe\SaladeAula\bin\Debug\netcoreapp2.1\SaladeAula.pdb
+C:\Users\40349113874\Documents\csharpe\SaladeAula\obj\Debug\netcoreapp2.1\SaladeAula.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\SaladeAula\obj\Debug\netcoreapp2.1\SaladeAula.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\SaladeAula\obj\Debug\netcoreapp2.1\SaladeAula.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\SaladeAula\obj\Debug\netcoreapp2.1\SaladeAula.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\SaladeAula\obj\Debug\netcoreapp2.1\SaladeAula.dll
+C:\Users\40349113874\Documents\csharpe\SaladeAula\obj\Debug\netcoreapp2.1\SaladeAula.pdb
