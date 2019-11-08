@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var nomeView= (string) ViewData["NomeView"];
+}
+<!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
@@ -10,6 +13,11 @@
     <link href="https://fonts.googleapis.com/css?family=Baloo&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:900%7COpen+Sans" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" type="text/css">
+    @if(!"Home".Equals(nomeView))
+    {
+        <link href="~/css/style-secondary-pages.css" rel="stylesheet" type="text/css">
+        <link href="~/css/style-form-pages.css" rel="stylesheet" type="text/css">
+    }
     <!-- Importar o Font Awesome para o projeto -->
     <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
 </head>
@@ -37,13 +45,11 @@
                 </ul>
             </div>
         </nav>
-        <section id="logo-area">
-            <img src="img/logo.png" alt="Logotipo do Rolê Top" title="logo" />
-            <hgroup>
-                <h1>Rolê Top</h1>
-                <h2>Galpão de Eventos</h2>
-            </hgroup>
-        </section>
+        <!--Aqui foi removido o logo-area e trasferido no _HeaderHomePage-->
+@if("Home".Equals(nomeView))
+{
+    Html.RenderPartial("_HeaderHomePage");
+}
     </header>
             @RenderBody()
             <footer>
@@ -52,7 +58,7 @@
                 <address>
                     Avenida de Limeira, 539 - Campos Elíseos - SP
                     <br />
-                    roletop@email.com
+                    roletopemail.com
                     <br />
                     11 1234 6789
                 </address>

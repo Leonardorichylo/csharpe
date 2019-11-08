@@ -28,3 +28,5 @@ C:\Users\40349113874\Documents\csharpe\RoleTop\obj\Debug\netcoreapp2.2\RoleTop.V
 C:\Users\40349113874\Documents\csharpe\RoleTop\obj\Debug\netcoreapp2.2\RoleTop.dll
 C:\Users\40349113874\Documents\csharpe\RoleTop\obj\Debug\netcoreapp2.2\RoleTop.pdb
 C:\Users\40349113874\Documents\csharpe\RoleTop\obj\Debug\netcoreapp2.2\RoleTop.csproj.CopyComplete
+C:\Users\40349113874\Documents\csharpe\RoleTop\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\40349113874\Documents\csharpe\RoleTop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderHomePage.g.cshtml.cs
