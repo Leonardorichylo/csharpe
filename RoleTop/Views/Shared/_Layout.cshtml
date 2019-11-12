@@ -12,7 +12,7 @@
     <link href="img/logo.png" rel="icon" type="image/x-icon"/>
     <link href="https://fonts.googleapis.com/css?family=Baloo&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:900%7COpen+Sans" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="~/css/style.css" rel="stylesheet" type="text/css">
     @if(!"Home".Equals(nomeView))
     {
         <link href="~/css/style-secondary-pages.css" rel="stylesheet" type="text/css">
@@ -22,7 +22,7 @@
     <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
 </head>
 
-<body>
+<body class="flex-container">
     <header>
         <nav>
             <div class="section-container">
@@ -33,25 +33,25 @@
                             <i class="fa fa-bars"></i>
                         </a>
                     </li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html" class="active">Principal</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#quemsomos">Quem Somos</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#espaço">Espaço</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#eventos">Eventos</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#galeria">Galeria</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#depoimentos">Depoimentos</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#local">Local</a></li>
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="login.html">Login</a></li>
-                    <li><a id="bt-faca_seu_orcamento" href="orçamento.html">Faça seu Orçamento!</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" asp-controller="Home" asp-action="Index" class="active">Principal</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#quemsomos'>Quem Somos</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#espaço'>Espaço</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#eventos'>Eventos</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#galeria'>Galeria</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#depoimentos'>Depoimentos</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("Index", "Home")#local'>Local</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" asp-controller="Cliente" asp-action="Login">Login</a></li>
+                    <li><a id="bt-faca_seu_orcamento" asp-controller="Cliente" asp-action="Login">Faça seu Orçamento!</a></li>
                 </ul>
             </div>
         </nav>
         <!--Aqui foi removido o logo-area e trasferido no _HeaderHomePage-->
 @if("Home".Equals(nomeView))
 {
-    Html.RenderPartial("_HeaderHomePage");
+Html.RenderPartial("_HeaderHomePage");
 }
     </header>
-            @RenderBody()
+    @RenderBody()
             <footer>
         <div class="section-container">
                 <img src="img/logo.png"/>
@@ -72,29 +72,22 @@
             var ul = document.querySelector("nav ul");
             var commonButtons = document.querySelectorAll("nav .bt-common-menu");
             var icon = document.querySelector(".icon > i");
-
             ul.classList.toggle("mobile-mode");
-
             if (icon.classList.contains("fa-bars")) {
                 icon.classList.remove("fa-bars");
                 icon.classList.remove("fa");
-
                 icon.classList.add("fas");
                 icon.classList.add("fa-angle-left");
             } else {
                 icon.classList.remove("fas");
                 icon.classList.remove("fa-angle-left");
-
                 icon.classList.add("fa");
                 icon.classList.add("fa-bars");
             }
-
             for (var button of commonButtons) {
                 button.classList.toggle("active");
             }
-
-        }
-        
+        }       
     </script>
 </body>
 <!-- Fim -->
