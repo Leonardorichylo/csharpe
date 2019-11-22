@@ -35,9 +35,8 @@ namespace McBonaldsMVC
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddSession(options =>
             {
-                options.IOTimeout = TimeSpan.FromMilliseconds(15);
+                options.IdleTimeout = TimeSpan.FromSeconds(15);
                 options.Cookie.IsEssential = true;
-
             });
         }
 

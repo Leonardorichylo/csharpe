@@ -2961,6 +2961,11 @@
   "RootNamespace": "McBonaldsMVC",
   "Documents": [
     {
+      "FilePath": "Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -3018,11 +3023,6 @@
     {
       "FilePath": "Views\\Cliente\\Login.cshtml",
       "TargetPath": "Views\\Cliente\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "HTML_Ref\\Index.cshtml",
-      "TargetPath": "HTML_Ref\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
