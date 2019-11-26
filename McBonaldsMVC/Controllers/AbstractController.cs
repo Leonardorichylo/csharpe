@@ -4,37 +4,37 @@ using Microsoft.AspNetCore.Mvc;
 namespace McBonaldsMVC.Controllers
 {
     public class AbstractController : Controller
-
     {
-        protected const string SESSION_CLIENTE_EMAIL = "cliente_email";
-        protected const string SESSION_CLIENTE_NOME = "cliente_nome";
+        protected const string SESSION_CLIENTE_EMAIL = "email_cliente";
+        protected const string SESSION_CLIENTE_NOME = "nome_cliente";
 
         protected string ObterUsuarioSession()
         {
-            var email = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
-            if (!string.IsNullOrEmpty(email))
+            var usuario = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
+            if(!string.IsNullOrEmpty(usuario))
             {
-                return email;
+                return usuario;
             }
-            else 
+            else
             {
                 return "";
             }
+        
         }
 
         protected string ObterUsuarioNomeSession()
         {
-            var nome = HttpContext.Session.GetString(SESSION_CLIENTE_NOME);
-            if (!string.IsNullOrEmpty(nome))
+            var nomeUsuario = HttpContext.Session.GetString(SESSION_CLIENTE_NOME);
+            if(!string.IsNullOrEmpty(nomeUsuario))
             {
-                return nome;
+                return nomeUsuario;
             }
-            else 
+            else
             {
                 return "";
             }
+        
         }
-
         
     }
 }
