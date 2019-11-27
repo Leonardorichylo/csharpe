@@ -2976,6 +2976,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\40349113874\\Documents\\csharpe\\McBonaldsMVC\\Views\\Administrador\\Dashboard.cshtml",
+      "TargetPath": "Views\\Administrador\\Dashboard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\40349113874\\Documents\\csharpe\\McBonaldsMVC\\Views\\Shared\\_HeaderHomePage.cshtml",
       "TargetPath": "Views\\Shared\\_HeaderHomePage.cshtml",
       "FileKind": "mvc"
@@ -2988,11 +2993,6 @@
     {
       "FilePath": "c:\\Users\\40349113874\\Documents\\csharpe\\McBonaldsMVC\\Views\\Shared\\Erro.cshtml",
       "TargetPath": "Views\\Shared\\Erro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\40349113874\\Documents\\csharpe\\McBonaldsMVC\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {

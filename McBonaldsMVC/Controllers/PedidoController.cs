@@ -5,63 +5,61 @@ using McBonaldsMVC.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace McBonaldsMVC.Controllers
-{
+namespace McBonaldsMVC.Controllers {
     public class PedidoController : AbstractController
     {
-        ClienteRepository clienteRepository = new ClienteRepository();
-        PedidoRepository pedidoRepository = new PedidoRepository();
+        PedidoRepository pedidoRepository = new PedidoRepository ();
         HamburguerRepository hamburguerRepository = new HamburguerRepository();
-        ShakeRepository shakeRepository = new ShakeRepository();
-        public IActionResult Index()
-        {
+        ShakesRepository shakeRepository = new ShakesRepository();
+        ClienteRepository clienteRepository = new ClienteRepository();
+
+        public IActionResult Index () {
+
             var hamburgueres = hamburguerRepository.ObterTodos();
-            var shakes = shakeRepository.ObterTodos();
+            var shake = shakeRepository.ObterTodos();
 
             PedidoViewModel pedido = new PedidoViewModel();
+            
             pedido.Hamburgueres = hamburgueres;
-            pedido.Shakes = shakes;
+            pedido.Shake = shake;
 
-            var emailCliente = ObterUsuarioSession();
-            if(!string.IsNullOrEmpty(emailCliente))
+            var usuarioLogado = ObterUsuarioSession();
+
+            var NomeUsuarioLogado = ObterUsuario_Nome_Session();
+
+            if (!string.IsNullOrEmpty(NomeUsuarioLogado)) // se o usuario estiver logado, aparecer o nome dele
             {
-                pedido.Cliente = clienteRepository.ObterPor(emailCliente);
+                pedido.NomeUsuario = NomeUsuarioLogado;
             }
 
-            var nomeUsuario = ObterUsuarioNomeSession();
-            if(!string.IsNullOrEmpty(nomeUsuario))
+            var clienterLogado = clienteRepository.ObterPor(usuarioLogado);
+            if(clienterLogado != null)
             {
-                pedido.NomeCliente = nomeUsuario;
+                pedido.Cliente = clienterLogado;
             }
+
             pedido.NomeView = "Pedido";
-            
             pedido.UsuarioEmail = ObterUsuarioSession();
-            pedido.UsuarioNome = ObterUsuarioNomeSession();
-            
-            return View(pedido);
+            pedido.UsuarioNome = ObterUsuario_Nome_Session();
+            return View (pedido);
         }
 
-        public IActionResult Registrar(IFormCollection form)
-        {
+        public IActionResult Registrar (IFormCollection form) {
             ViewData["Action"] = "Pedido";
-            Pedido pedido = new Pedido();
+            Pedido pedido = new Pedido ();
+
             
-            Shake shake = new Shake();
+            var precoShake = shakeRepository.ObterPrecoDe(form["shake"]);
             var nomeShake = form["shake"];
-            shake.Nome = nomeShake;
-            shake.Preco = shakeRepository.ObterPrecoDe(nomeShake);
+            Shake shake = new Shake (nomeShake,precoShake);
 
             pedido.Shake = shake;
 
-            var nomeHamburguer = form["hamburguer"];
-            Hamburguer hamburguer = new Hamburguer(
-                nomeHamburguer, 
-                hamburguerRepository.ObterPrecoDe(nomeHamburguer));
-
+            Hamburguer hamburguer = new Hamburguer (form["hamburguer"],hamburguerRepository.ObterPrecoDe(form["hamburguer"]));
+            var precoHamburger = hamburguerRepository.ObterPrecoDe(form["hamburguer"]);
             pedido.Hamburguer = hamburguer;
 
-            Cliente cliente = new Cliente()
-            {
+            Cliente cliente = new Cliente () {
                 Nome = form["nome"],
                 Endereco = form["endereco"],
                 Telefone = form["telefone"],
@@ -71,24 +69,24 @@ namespace McBonaldsMVC.Controllers
             pedido.Cliente = cliente;
 
             pedido.DataDoPedido = DateTime.Now;
-            
-            pedido.PrecoTotal = hamburguer.Preco + shake.Preco;
 
-            if(pedidoRepository.Inserir(pedido)){
+            pedido.PrecoTotal = precoHamburger + precoShake;
 
-            return View("Sucesso",new RespostaViewModel(){
-            Mensagem = "Aguarde a aprovaçao dos nossos admnistradores"
-                        });
-            }else{
-                return View("Erro",new RespostaViewModel(){
-                Mensagem = "Houve um erro ao processar seu pedido.Tente novamente",
-                NomeView = "Login",
-                UsuarioEmail = ObterUsuarioSession(),
-                UsuarioNome = ObterUsuarioNomeSession()
+            if (pedidoRepository.Inserir (pedido)) {
+                return View ("Sucesso", new RespostaViewModel(){
+                    NomeView = "Sucesso",
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuario_Nome_Session(),
+                    Mensagem = "Aguarde a aprovação dos nossos Administradores"
+                });
+            } else {
+                return View ("Erro", new RespostaViewModel(){
+                    NomeView = "Erro",
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuario_Nome_Session(),
+                    Mensagem = "Houve um erro ao processar seu pedido. Por favor, Tente novamente"
                 });
             }
-
-        
         }
     }
 }

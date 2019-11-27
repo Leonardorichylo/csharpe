@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using McBonaldsMVC.Models;
 using McBonaldsMVC.ViewModels;
+using Microsoft.AspNetCore.Mvc;
 
 namespace McBonaldsMVC.Controllers
 {
@@ -13,18 +12,11 @@ namespace McBonaldsMVC.Controllers
     {
         public IActionResult Index()
         {
-            return View(new BaseViewModel()
-            {
-                NomeView = "Home",
-                UsuarioNome = ObterUsuarioNomeSession(),
+            return View(new BasaViewModel(){
+                NomeView = "Home" , 
+                UsuarioNome = ObterUsuario_Nome_Session(),
                 UsuarioEmail = ObterUsuarioSession()
             });
         }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
     }
 }

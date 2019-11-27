@@ -10,76 +10,79 @@ namespace McBonaldsMVC.Controllers
     {
         private ClienteRepository clienteRepository = new ClienteRepository();
         private PedidoRepository pedidoRepository = new PedidoRepository();
+
         [HttpGet]
         public IActionResult Login()
         {
-            return View(new BaseViewModel(){
-                NomeView = "Login",
+            return View(new BasaViewModel(){
+                NomeView= "Login",
                 UsuarioEmail = ObterUsuarioSession(),
-                UsuarioNome = ObterUsuarioNomeSession()
+                UsuarioNome = ObterUsuario_Nome_Session()
             });
         }
+
         [HttpPost]
         public IActionResult Login(IFormCollection form)
         {
             ViewData["Action"] = "Login";
             try
             {
-                System.Console.WriteLine("====================");
+                System.Console.WriteLine("=========aaaa=========");
                 System.Console.WriteLine(form["email"]);
                 System.Console.WriteLine(form["senha"]);
-                System.Console.WriteLine("====================");
+                System.Console.WriteLine("===========bbbb=======");
+
                 var usuario = form["email"];
                 var senha = form["senha"];
+
                 var cliente = clienteRepository.ObterPor(usuario);
+                
                 
                 if (cliente != null)
                 {
                     if(cliente.Senha.Equals(senha))
                     {
-                        HttpContext.Session.SetString(SESSION_CLIENTE_EMAIL, usuario);
-                        HttpContext.Session.SetString(SESSION_CLIENTE_NOME, cliente.Nome);
-                        return RedirectToAction("Historico", "Cliente");
+                        HttpContext.Session.SetString(SESSION_CLIENTE_EMAIL, usuario); // HttpContext.Session == nela você guarda as coisas q ficarão visiveis aos outros controllers
+                        HttpContext.Session.SetString(SESSION_CLIENTE_NOME,cliente.Nome);
+                        return RedirectToAction("Historico","Cliente");  //RedirectToAction chama outro método, no caso Historico q está dentro do controller Cliente mesmo;
                     }
-                    else 
-                    {
-                        return View("Erro", new RespostaViewModel("Senha incorreta"));
+                    else{
+                        return View("Erro",new RespostaViewModel("Senha incorreta"));
                     }
                 }
-                else 
+                else
                 {
-                    return View("Erro", new RespostaViewModel($"Usuário {usuario} não foi encontrado"));
+                                                                //abaixo entre as () está sendo enviada a mensagem para a variavel "mensagem" da classe RespostaViewModel
+                    return View("Erro", new RespostaViewModel($"Usuário {usuario} não foi encontrado")); //mostrar q o usuario está errado 
                 }
             }
             catch (Exception e)
             {
-                System.Console.WriteLine("====================");
                 System.Console.WriteLine(e.StackTrace);
-                System.Console.WriteLine("====================");
                 return View("Erro");
             }
         }
-    
-        public IActionResult Historico()
+        public ActionResult Historico()
         {
-            var emailCliente = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
-            var pedidos = pedidoRepository.ObterTodosPorCliente(emailCliente);
+            var emailCliente = ObterUsuarioSession();
 
-            return View(new HistoricoViewModel() 
-            {
-                Pedidos = pedidos,
-                NomeView = "Login",
+            var pedidos = pedidoRepository.ObterTodosPorCliente(emailCliente);
+            
+            return View(new HistoricoViewModel() {
+                NomeView = "Historico",
                 UsuarioEmail = ObterUsuarioSession(),
-                UsuarioNome = ObterUsuarioNomeSession()
+                UsuarioNome = ObterUsuario_Nome_Session(),
+                Pedidos = pedidos
             });
         }
-
         public IActionResult Logoff()
         {
             HttpContext.Session.Remove(SESSION_CLIENTE_EMAIL);
             HttpContext.Session.Remove(SESSION_CLIENTE_NOME);
             HttpContext.Session.Clear();
-            return RedirectToAction("Index","Home");
+            
+            return RedirectToAction("Index", "Home");
+
         }
     }
 }
