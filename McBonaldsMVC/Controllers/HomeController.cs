@@ -12,11 +12,20 @@ namespace McBonaldsMVC.Controllers
     {
         public IActionResult Index()
         {
-            return View(new BasaViewModel(){
-                NomeView = "Home" , 
-                UsuarioNome = ObterUsuario_Nome_Session(),
-                UsuarioEmail = ObterUsuarioSession()
+            
+            return View(new BaseViewModel()
+            {
+                NomeView = "Home",
+                UsuarioEmail = ObterUsuarioSession(),
+                UsuarioNome = ObterUsuarioNomeSession()
+                
             });
         }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
     }
 }

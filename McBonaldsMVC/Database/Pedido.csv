@@ -1,1 +1,2 @@
-cliente_nome=Henrique O DONO;cliente_endereco=ruadostop;cliente_telefone=11981369073;cliente_email=hbncod@gmail.com;hamburguer_nome=Furioso;hamburguer_preco=9,99;shake_nome=Morango;shake_preco=19,99;data_pedido=25/11/2019 11:10:07;preco_total=29,98
+cliente_nome=Fulano;cliente_endereco=BlaBla;cliente_telefone=11 99999-9999;cliente_email=fulano@email.com;hamburguer_nome=furioso;hamburguer_preco=0;shake_nome=chocolate;shake_preco=0;data_pedido=14/11/2019 15:43:34;preco_total=0
+cliente_nome=leonardo;cliente_endereco=rua 123;cliente_telefone=12345678910;cliente_email=leonardo@123.com;hamburguer_nome=Furioso;hamburguer_preco=9,99;shake_nome=Chocolate;shake_preco=12,99;data_pedido=28/11/2019 08:04:30;preco_total=22,98

@@ -5,27 +5,30 @@ namespace McBonaldsMVC.Controllers
 {
     public class AbstractController : Controller
     {
-        protected const string SESSION_CLIENTE_EMAIL = "email_Cliente";
-        protected const string SESSION_CLIENTE_NOME = "nome_Cliente";
+        protected const string SESSION_CLIENTE_EMAIL = "cliente_email";
+        protected const string SESSION_CLIENTE_NOME = "cliente_nome";
+
         protected string ObterUsuarioSession()
         {
-            var email = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL); //HttpContext.Session == recebe um (chave,conteudo)
-            if(!string.IsNullOrEmpty(email))
+            var email = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
+            if (!string.IsNullOrEmpty(email))
             {
                 return email;
-            }
-            else{
+            } 
+            else
+            {
                 return "";
             }
         }
-        protected string ObterUsuario_Nome_Session()
+        protected string ObterUsuarioNomeSession()
         {
-            var nome = HttpContext.Session.GetString(SESSION_CLIENTE_NOME); //HttpContext.Session == recebe um (chave,conteudo)
-            if(!string.IsNullOrEmpty(nome))
+            var nome = HttpContext.Session.GetString(SESSION_CLIENTE_NOME);
+            if (!string.IsNullOrEmpty(nome))
             {
                 return nome;
-            }
-            else{
+            } 
+            else
+            {
                 return "";
             }
         }
