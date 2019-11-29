@@ -7,7 +7,6 @@ namespace McBonaldsMVC.Models
     {
         public ulong Id {get;set;}
         public Cliente Cliente {get;set;}
-
         public Hamburguer Hamburguer {get;set;}
 
         public Shake Shake {get;set;}
@@ -24,7 +23,7 @@ namespace McBonaldsMVC.Models
             this.Hamburguer = new Hamburguer();
             this.Shake = new Shake();
             this.Id = 0;
-            this.Status = StatusPedido.PENDENTE;
+            this.Status = (uint) StatusPedido.PENDENTE; 
         }
     }
 }

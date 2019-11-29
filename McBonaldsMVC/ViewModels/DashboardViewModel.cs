@@ -3,16 +3,17 @@ using McBonaldsMVC.Models;
 
 namespace McBonaldsMVC.ViewModels
 {
-    public class DashboardViewModel :BaseViewModel
+    public class DashboardViewModel : BaseViewModel
     {
         public List<Pedido> Pedidos {get;set;}
-        public uint pedidosAprovados {get;set;}
-        public uint pedidosReprovados {get;set;}
-        public uint pedidosPendentes {get;set;}
+        public uint PedidosAprovados {get;set;}
+        public uint PedidosReprovados {get;set;}
+        public uint PedidosPendentes {get;set;}
 
         public DashboardViewModel()
         {
             this.Pedidos = new List<Pedido>();
         }
+
     }
 }

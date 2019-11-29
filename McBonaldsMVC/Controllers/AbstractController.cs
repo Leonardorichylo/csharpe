@@ -7,6 +7,7 @@ namespace McBonaldsMVC.Controllers
     {
         protected const string SESSION_CLIENTE_EMAIL = "cliente_email";
         protected const string SESSION_CLIENTE_NOME = "cliente_nome";
+        protected const string SESSION_TIPO_USUARIO = "tipo_usuario";
 
         protected string ObterUsuarioSession()
         {
@@ -26,6 +27,18 @@ namespace McBonaldsMVC.Controllers
             if (!string.IsNullOrEmpty(nome))
             {
                 return nome;
+            } 
+            else
+            {
+                return "";
+            }
+        }
+        protected string ObterUsuarioTipoSession()
+        {
+            var tipoUsuario = HttpContext.Session.GetString(SESSION_TIPO_USUARIO);
+            if (!string.IsNullOrEmpty(tipoUsuario))
+            {
+                return tipoUsuario;
             } 
             else
             {

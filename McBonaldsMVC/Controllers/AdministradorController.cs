@@ -8,34 +8,43 @@ namespace McBonaldsMVC.Controllers
     public class AdministradorController : AbstractController
     {
         PedidoRepository pedidoRepository = new PedidoRepository();
-
-        [HttpGet]
-        public IActionResult DashBoard()
+        public IActionResult Dashboard()
         {
-            var pedidos = pedidoRepository.ObterTodos();
-            DashboardViewModel dashboardViewModel= new DashboardViewModel();
+            var tipoUsuarioSessao = uint.Parse(ObterUsuarioTipoSession());
+            if(tipoUsuarioSessao.Equals((uint) TipoUsuario.ADMINISTRADOR))
+            {
 
+            var pedidos = pedidoRepository.ObterTodos();
+            DashboardViewModel dashboardViewModel = new DashboardViewModel();
+            
             foreach (var pedido in pedidos)
             {
                 switch(pedido.Status)
                 {
-                    case (uint) StatusPedido.REPROVADO:
-                    dashboardViewModel.pedidosReprovados++;
-                    break;
                     case (uint) StatusPedido.APROVADO:
-                    dashboardViewModel.pedidosAprovados++;
+                        dashboardViewModel.PedidosAprovados++;
+                    break;
+                    case (uint) StatusPedido.REPROVADO:
+                        dashboardViewModel.PedidosReprovados++;
                     break;
                     default:
-                    dashboardViewModel.pedidosPendentes++;
-                    dashboardViewModel.Pedidos.Add(pedido);
+                        dashboardViewModel.PedidosPendentes++;
+                        dashboardViewModel.Pedidos.Add(pedido);
                     break;
                 }
             }
-            dashboardViewModel.NomeView="Dashboard";
+            dashboardViewModel.NomeView = "Dashboard";
             dashboardViewModel.UsuarioEmail = ObterUsuarioSession();
 
             return View(dashboardViewModel);
-
+            }
+        return View("Erro", new RespostaViewModel()
+        {
+            NomeView = "Dashboard",
+            Mensagem = "Você "
+        });
+        
         }
+
     }
 }
