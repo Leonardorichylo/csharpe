@@ -33,13 +33,13 @@ namespace McBonaldsMVC.Repositories
                 {
                     Cliente c = new Cliente();
                     c.Nome = ExtrairValorDoCampo("nome", item);
+                    c.TipoUsuario = uint.Parse(ExtrairValorDoCampo("tipo_usuario", item));
                     c.Email = ExtrairValorDoCampo("email", item);
                     c.DataNascimento = 
                     DateTime.Parse(ExtrairValorDoCampo("data_nascimento", item));
                     c.Endereco = ExtrairValorDoCampo("endereco", item);
                     c.Telefone = ExtrairValorDoCampo("telefone", item);
                     c.Senha = ExtrairValorDoCampo("senha", item);
-                    c.TipoUsuario = uint.Parse(ExtrairValorDoCampo("tipo_usuario", linha));
 
                     return c;
                 }

@@ -1,9 +1,8 @@
 namespace McBonaldsMVC.Enums
 {
-    public enum TipoUsuario : uint
+    public enum TiposUsuario
     {
-        ADMINISTRADOR=0,
+        ADMINISTRADOR = 0,
         CLIENTE = 1
-
     }
 }
